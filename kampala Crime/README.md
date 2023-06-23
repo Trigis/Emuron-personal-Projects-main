@@ -1,1 +1,1 @@
-# indian-crime-analysis
+# kampala-crime-analysis
