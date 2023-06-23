@@ -3,7 +3,7 @@
 ## 1. Bigbasket Analysis:
 [link](https://github.com/Vinodkumar-yerraballi/Pesonal-Projects/blob/main/BigBasker_analysis/Big%20Basket.ipynb)
     
-Bigbasket is the largest online grocery supermarket in India. Was launched somewhere around in 2011 since then they've been expanding their business. Though some new competitors have been able to set their foot in the nation such as Blinkit etc. but BigBasket has still not loose anything - thanks to ever expanding popular base and their shift to online buying.
+Bigbasket is the largest online grocery supermarket in kampala. Was launched somewhere around in 2011 since then they've been expanding their business. Though some new competitors have been able to set their foot in the nation such as Blinkit etc. but BigBasket has still not loose anything - thanks to ever expanding popular base and their shift to online buying.
 
 Firstly, we received the dataset and started with data preprocessing steps such as loading the data, checking information and null values, and checking for duplicate values. After that, we performed some EDA using matplotlib, seaborn, and plotly libraries, where we created pie charts, bar charts, pivot tables, and boxplots. As the dataset had a description column which was text-based, we utilized natural language processing techniques to convert it into a vector format. We also converted the categorical columns into numerical format using labelencoder. Once all these techniques were applied, the data was ready for modeling. This was a regression problem, where we aimed to predict the price of a product using several regression algorithms. Finally, we used the accuracy_score metric to evaluate the performance of the Linear Regression and DecisionTreeRegressor models.
 
